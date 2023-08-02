@@ -1,23 +1,7 @@
+#include<stdio.h>
+{
+main()
+{
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Hello,This is inside the git folde
+}
